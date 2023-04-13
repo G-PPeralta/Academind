@@ -1,0 +1,47 @@
+* {
+  background: #fff;
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.header {
+  background: #22004C;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 32px;
+  line-height: 32px;
+}
+
+.header a {
+  background: none;
+  text-decoration: none;
+  font-size: 24px;
+  font-color: white;
+  font-weight: bold;
+}
+
+
+.header img {
+  width: 32px;
+  height: 32px;
+}
+
+.title {
+  background: none;
+  font-size: 32px;
+  font-weight: bold;
+  margin: 32px 0;
+}
+
+nav {
+  font-color: white;
+  background: none;
+  display: flex;
+  align-items: flex-start;
+  gap: 42px;
+}
